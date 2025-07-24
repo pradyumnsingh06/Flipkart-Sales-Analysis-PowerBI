@@ -1,5 +1,6 @@
 Flipkart Sales & Quality Analysis
-Project Overview
+
+Project Overview:
 This project is a comprehensive analysis of a Flipkart sales dataset containing over 20,000 product listings. The primary goal was to use Power BI to clean, model, and visualize the data to uncover actionable insights that could inform business strategy, improve customer satisfaction, and drive strategic growth.
 
 The analysis focuses on three core business questions:
@@ -13,11 +14,11 @@ How effective is our current pricing and discount strategy?
 Dashboard Preview
 Here is a preview of the final three-page interactive dashboard built in Power BI.
 
-Page 1: Executive Summary
+![Executive Summary](https://raw.githubusercontent.com/pradyumnsingh06/Flipkart-Sales-Analysis-PowerBI/main/Screenshot%202025-07-24%20182839.png)
 
-Page 2: Quality & FK Advantage Analysis
+![Executive Summary](https://raw.githubusercontent.com/pradyumnsingh06/Flipkart-Sales-Analysis-PowerBI/main/Screenshot%202025-07-24%20182851.png)
 
-Page 3: Pricing & Discount Strategy
+[Executive Summary](https://raw.githubusercontent.com/pradyumnsingh06/Flipkart-Sales-Analysis-PowerBI/main/Screenshot%202025-07-24%20182905.png)
 
 Data Cleaning & Transformation (Power Query)
 The raw dataset required significant cleaning to be usable for analysis. The primary challenge was the Main_Category column, which contained a mix of structured "breadcrumb" text and unstructured product names.
